@@ -1,4 +1,3 @@
-# gis4t
 <H1>GIS4Trainees - Additional Bookmarks</H1>
 <DL>
 	<H3> Books </H3>
