@@ -55,3 +55,6 @@ https://www.qgis.org/en/site/forusers/trainingmaterial/index.html</A><p></p>
 		<DT><A HREF="https://www.qgistutorials.com/en/" ADD_DATE="1549280106" LAST_MODIFIED="1549280106" TAGS="">QGIS Tutorials and Tips — QGIS Tutorials and Tips</A>
 		<DT><A HREF="https://mltconsecol.github.io/QGIS-Tutorial/" ADD_DATE="1549280183" LAST_MODIFIED="1549280183" TAGS="">QGIS Tutorial - A GIS Tutorial using QGIS by Mike Treglia</A>
 	</DL>
+	<H3>JRC Earth Observation Data and Processing Platform (JEODPP)</H3>		
+		<DT><A HREF="https://connected.cnect.cec.eu.int/groups/bigdataeoss/blog/2019/02/15/jeodppgis4trainees" ADD_DATE="1549280202" LAST_MODIFIED="1549280202" TAGS="">JEODPP Presentation 20190214<br>
+		https://connected.cnect.cec.eu.int/groups/bigdataeoss/blog/2019/02/15/jeodppgis4trainees</A><p></p>
