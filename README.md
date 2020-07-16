@@ -1,4 +1,4 @@
-<H1>GIS4Trainees - Additional Bookmarks</H1>
+<H1>Introduction to GIS - Additional Bookmarks</H1>
 <DL>
 	<H3> Books </H3>
 		<DT><A HREF="http://discovery.ucl.ac.uk/1563584/" ADD_DATE="1549494088" LAST_MODIFIED="1549494088" TAGS="">Geographical Information Systems, Spatial Data Analysis and Decision Making in Government<br>
