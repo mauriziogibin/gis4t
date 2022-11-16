@@ -48,8 +48,7 @@ https://ec.europa.eu/eurostat/statistics-explained/index.php/Geographical_inform
 		<DT><A HREF="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Data_processing" ADD_DATE="1549308997" LAST_MODIFIED="1549308997" TAGS="">Glossary:Data processing - Statistics Explained<br>
 https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Data_processing</A><p></p>
 	<H3>QGIS Tutorials </H3>		
-		<DT><A HREF="https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/index.html" ADD_DATE="1549280202" LAST_MODIFIED="1549280202" TAGS="">QGIS - A Gentle Introduction to GIS theory<br>
-		https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/index.html</A><p></p>
+		https://docs.qgis.org/3.22/en/docs/
 		<DT><A HREF="https://www.qgis.org/en/site/forusers/trainingmaterial/index.html" ADD_DATE="1549280116" LAST_MODIFIED="1549280116" TAGS="">QGIS website training materials<br>
 https://www.qgis.org/en/site/forusers/trainingmaterial/index.html</A><p></p>
 		<DT><A HREF="https://www.qgistutorials.com/en/" ADD_DATE="1549280106" LAST_MODIFIED="1549280106" TAGS="">QGIS Tutorials and Tips — QGIS Tutorials and Tips</A>
